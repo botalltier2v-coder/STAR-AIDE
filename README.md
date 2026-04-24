@@ -1,3 +1,5 @@
+<img width="576" height="1280" alt="photo_2026-04-24_14-34-55" src="https://github.com/user-attachments/assets/4dc700a4-1dfd-411b-9702-310d391a4890" />
+<img width="576" height="1280" alt="photo_2026-04-24_14-35-24" src="https://github.com/user-attachments/assets/2d796828-2516-444c-8f2c-f354ce77325b" />
 # STAR AIDE 🚀
 **The Ultimate NDK Development Environment for Android**
 
